@@ -1,4 +1,6 @@
-This is your new Play application
-=================================
+General framework in the making for Arcanum
 
-This file will be packaged with your application, when using `activator dist`.
+Run:
+  -Access ArcanumFrontend dir
+    - $ activator run
+    - access localhost: http://localhost:9000/
